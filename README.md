@@ -5,5 +5,6 @@ Learning Github from Apna College
 
 <h1> I am creating Heading tag</h1>
 
+<p> Now i am using paragraph tag </p>
 
 Author Of the Commit :  Prathmesh Tikle
